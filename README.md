@@ -20,3 +20,10 @@ To detect license number plate in an image, we could follow the below steps-
 
 Display the image with the drawn bounding rectangles around the license number plate.
 
+## Screenshots
+
+![image3](https://github.com/singhyash3302/number-plate-detection-/assets/26682113/be8637b5-582f-48e9-a834-ca39f107543c)
+![image2](https://github.com/singhyash3302/number-plate-detection-/assets/26682113/99f4983c-e888-44fa-b7ed-e98fd3641b80)
+![image_1](https://github.com/singhyash3302/number-plate-detection-/assets/26682113/2c96f852-4340-4299-8967-ca8804d97a48)
+
+
